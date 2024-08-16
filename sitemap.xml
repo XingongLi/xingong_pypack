@@ -31,6 +31,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://xingongli.github.io/xingong_pypack/mapping/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://xingongli.github.io/xingong_pypack/model/</loc>
+         <lastmod>2024-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://xingongli.github.io/xingong_pypack/usage/</loc>
          <lastmod>2024-08-16</lastmod>
          <changefreq>daily</changefreq>
