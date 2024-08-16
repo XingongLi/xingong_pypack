@@ -1,9 +1,9 @@
-"""Main module."""
+# The mapping module
 
-def hello(name):
+def hello_mapping(name):
     """Prints "Hello, <name>!" to the console.
 
     Args:
         name (str): The name to say hello to.
     """
-    print(f"Hello, {name}! Thanks for using xingong_pypack!")
+    print(f"Hello, {name}! Thanks for using the mapping module!")
