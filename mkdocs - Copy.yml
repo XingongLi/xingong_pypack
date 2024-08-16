@@ -83,5 +83,4 @@ nav:
         - examples/intro.ipynb
     - API Reference:
           - xingong_pypack module: xingong_pypack.md
-          - model module: model.md
-          - mapping module: mapping.md
+          - common module: common.md
