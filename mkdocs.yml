@@ -38,11 +38,7 @@ theme:
 
 plugins:
     - search
-    - mkdocstrings:
-            default_handler: python
-            handlers:
-                python: python
-                paths: [.]
+    - mkdocstrings
     - git-revision-date
     - git-revision-date-localized:
           enable_creation_date: true
