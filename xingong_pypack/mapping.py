@@ -2,7 +2,7 @@
 """
 
 # import common module
-from common import *
+from .common import *
 
 # functions
 def hello_mapping(name):
