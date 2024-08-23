@@ -38,7 +38,11 @@ theme:
 
 plugins:
     - search
-    - mkdocstrings
+    - mkdocstrings:
+            default_handler: python
+            handlers:
+                python: python
+                paths: [xingong_pypack]
     - git-revision-date
     - git-revision-date-localized:
           enable_creation_date: true
