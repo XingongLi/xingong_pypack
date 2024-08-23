@@ -42,7 +42,7 @@ plugins:
             default_handler: python
             handlers:
                 python: python
-                paths: [xingong_pypack]
+                paths: [.]
     - git-revision-date
     - git-revision-date-localized:
           enable_creation_date: true
