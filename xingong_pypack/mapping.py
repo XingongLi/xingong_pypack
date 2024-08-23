@@ -1,5 +1,10 @@
-# The mapping module
+"""The mapping module contains functions for generating flood inundation maps using tiled FDLPLN library.
+"""
 
+# import common module
+from common import *
+
+# functions
 def hello_mapping(name):
     """Prints "Hello, <name>!" to the console.
 
